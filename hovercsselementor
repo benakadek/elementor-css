@@ -1,0 +1,6 @@
+.elementor-icon i {
+    visibility: hidden;
+}
+a:hover i, .elementor-icon svg {
+    visibility: visible;
+}
